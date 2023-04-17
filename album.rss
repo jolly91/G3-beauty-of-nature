@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>設計</title>
+   	<link>.</link>
+        <generator>jAlbum 30.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>落在山裡的一道光</title>
+            <link>slides/11.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>模模糊糊，朦朦朧朧，感覺在山裡看見了希望！</description>
+            <media:description type="html">模模糊糊，朦朦朧朧，感覺在山裡看見了希望！</media:description>
+            <media:thumbnail url="thumbs/11.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/11.jpg" width="1000" height="750"/>
+            <guid isPermaLink="false">slides/11.jpg</guid>
+        </item>
+        <item>
+            <title>鄉間彩虹</title>
+            <link>slides/12.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>在阿里山的頂石棹步道群上，彩虹永遠只在雨後陽光折射下才會出現，它很美，卻很虛幻，觸手不及。</description>
+            <media:description type="html">在阿里山的頂石棹步道群上，彩虹永遠只在雨後陽光折射下才會出現，它很美，卻很虛幻，觸手不及。</media:description>
+            <media:thumbnail url="thumbs/12.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/12.jpg" width="583" height="800"/>
+            <guid isPermaLink="false">slides/12.jpg</guid>
+        </item>
+        <item>
+            <title>羞澀的太陽</title>
+            <link>slides/13.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>太陽像害羞的小姑娘一樣，露出一點點臉來。</description>
+            <media:description type="html">太陽像害羞的小姑娘一樣，露出一點點臉來。</media:description>
+            <media:thumbnail url="thumbs/13.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/13.jpg" width="1000" height="750"/>
+            <guid isPermaLink="false">slides/13.jpg</guid>
+        </item>
+        <item>
+            <title>山間巨頭</title>
+            <link>slides/14.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>阿里山二萬坪的自然奇景「樹抱石」，也稱夫妻樹。</description>
+            <media:description type="html">阿里山二萬坪的自然奇景「樹抱石」，也稱夫妻樹。</media:description>
+            <media:thumbnail url="thumbs/14.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/14.jpg" width="1000" height="569"/>
+            <guid isPermaLink="false">slides/14.jpg</guid>
+        </item>
+        <item>
+            <title>夕陽無限好</title>
+            <link>slides/15.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>在阿里山的頂石棹步道群上，夕陽無限好，只是近黃昏。</description>
+            <media:description type="html">在阿里山的頂石棹步道群上，夕陽無限好，只是近黃昏。</media:description>
+            <media:thumbnail url="thumbs/15.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/15.jpg" width="1000" height="669"/>
+            <guid isPermaLink="false">slides/15.jpg</guid>
+        </item>
+        <item>
+            <title>清晨選擇</title>
+            <link>slides/5E09BEE2-0DFD-48A9-9D96-8D479EB2F4A6.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>清晨的日出與藍天和路燈相呼應，地上的指標就好像代表著人生每天都在做選擇。</description>
+            <media:description type="html">清晨的日出與藍天和路燈相呼應，地上的指標就好像代表著人生每天都在做選擇。</media:description>
+            <media:thumbnail url="thumbs/5E09BEE2-0DFD-48A9-9D96-8D479EB2F4A6.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/5E09BEE2-0DFD-48A9-9D96-8D479EB2F4A6.jpg" width="1000" height="786"/>
+            <guid isPermaLink="false">slides/5E09BEE2-0DFD-48A9-9D96-8D479EB2F4A6.jpg</guid>
+        </item>
+        <item>
+            <title>山與海</title>
+            <link>slides/0F887ECA-964A-487B-835F-BE15B8097C92.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>傍晚落日下的山影，與藍天反映出暗亮分隔。</description>
+            <media:description type="html">傍晚落日下的山影，與藍天反映出暗亮分隔。</media:description>
+            <media:thumbnail url="thumbs/0F887ECA-964A-487B-835F-BE15B8097C92.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/0F887ECA-964A-487B-835F-BE15B8097C92.jpg" width="1000" height="734"/>
+            <guid isPermaLink="false">slides/0F887ECA-964A-487B-835F-BE15B8097C92.jpg</guid>
+        </item>
+        <item>
+            <title>海浪石頭</title>
+            <link>slides/B4604E80-D508-4DFC-9AAF-4D161DFD8F2D.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>在七星潭，海浪拍打著石頭細碎的聲音，非常療癒。</description>
+            <media:description type="html">在七星潭，海浪拍打著石頭細碎的聲音，非常療癒。</media:description>
+            <media:thumbnail url="thumbs/B4604E80-D508-4DFC-9AAF-4D161DFD8F2D.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/B4604E80-D508-4DFC-9AAF-4D161DFD8F2D.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/B4604E80-D508-4DFC-9AAF-4D161DFD8F2D.jpg</guid>
+        </item>
+        <item>
+            <title>暗黑天空</title>
+            <link>slides/9C9753CF-FC4A-4566-8C2D-A9701F1195DB.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>椰子樹的葉子很細微，對照後面平行的山景，很像身在夏威夷的感覺。</description>
+            <media:description type="html">椰子樹的葉子很細微，對照後面平行的山景，很像身在夏威夷的感覺。</media:description>
+            <media:thumbnail url="thumbs/9C9753CF-FC4A-4566-8C2D-A9701F1195DB.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/9C9753CF-FC4A-4566-8C2D-A9701F1195DB.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/9C9753CF-FC4A-4566-8C2D-A9701F1195DB.jpg</guid>
+        </item>
+        <item>
+            <title>苗</title>
+            <link>slides/F7B0C9ED-1321-40F4-B4A1-0B3534EC19EF.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>日出而做，日落而息，夕陽西下就像在紀錄農夫的生活。</description>
+            <media:description type="html">日出而做，日落而息，夕陽西下就像在紀錄農夫的生活。</media:description>
+            <media:thumbnail url="thumbs/F7B0C9ED-1321-40F4-B4A1-0B3534EC19EF.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/F7B0C9ED-1321-40F4-B4A1-0B3534EC19EF.jpg" width="645" height="800"/>
+            <guid isPermaLink="false">slides/F7B0C9ED-1321-40F4-B4A1-0B3534EC19EF.jpg</guid>
+        </item>
+        <item>
+            <title>最後</title>
+            <link>slides/timeline_20230417_180548.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>在忙碌的日子，看到這片美如畫的天空，心情愉快完美結束。</description>
+            <media:description type="html">在忙碌的日子，看到這片美如畫的天空，心情愉快完美結束。</media:description>
+            <media:thumbnail url="thumbs/timeline_20230417_180548.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/timeline_20230417_180548.jpg" width="1000" height="750"/>
+            <guid isPermaLink="false">slides/timeline_20230417_180548.jpg</guid>
+        </item>
+        <item>
+            <title>春天</title>
+            <link>slides/timeline_20230417_180543.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>遠處就會看到這些花的綻放，那時候就會知道，春天已經來了。</description>
+            <media:description type="html">遠處就會看到這些花的綻放，那時候就會知道，春天已經來了。</media:description>
+            <media:thumbnail url="thumbs/timeline_20230417_180543.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/timeline_20230417_180543.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/timeline_20230417_180543.jpg</guid>
+        </item>
+        <item>
+            <title>依靠</title>
+            <link>slides/timeline_20230417_180544.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>壯大的樹給在樹下乘涼的人有如大手般保護與依靠。</description>
+            <media:description type="html">壯大的樹給在樹下乘涼的人有如大手般保護與依靠。</media:description>
+            <media:thumbnail url="thumbs/timeline_20230417_180544.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/timeline_20230417_180544.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/timeline_20230417_180544.jpg</guid>
+        </item>
+        <item>
+            <title>界線</title>
+            <link>slides/timeline_20230417_180540.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>下雨前流動的雲跟寧靜的山之間彷彿是在不同世界。</description>
+            <media:description type="html">下雨前流動的雲跟寧靜的山之間彷彿是在不同世界。</media:description>
+            <media:thumbnail url="thumbs/timeline_20230417_180540.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/timeline_20230417_180540.jpg" width="1000" height="750"/>
+            <guid isPermaLink="false">slides/timeline_20230417_180540.jpg</guid>
+        </item>
+        <item>
+            <title>生存</title>
+            <link>slides/timeline_20230417_180538.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>在樓梯與樓梯之間的求生存的小草。</description>
+            <media:description type="html">在樓梯與樓梯之間的求生存的小草。</media:description>
+            <media:thumbnail url="thumbs/timeline_20230417_180538.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/timeline_20230417_180538.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/timeline_20230417_180538.jpg</guid>
+        </item>
+        <item>
+            <title>岩海</title>
+            <link>slides/4420C597-F2AC-43F6-A399-E6FB6910DC3D.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>岩石包圍著海。</description>
+            <media:description type="html">岩石包圍著海。</media:description>
+            <media:thumbnail url="thumbs/4420C597-F2AC-43F6-A399-E6FB6910DC3D.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/4420C597-F2AC-43F6-A399-E6FB6910DC3D.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/4420C597-F2AC-43F6-A399-E6FB6910DC3D.jpg</guid>
+        </item>
+        <item>
+            <title>路</title>
+            <link>slides/933B2FB0-432B-4EDD-A1E4-307B08219D49.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>夕陽照在海上，就像條道路指引著我們。</description>
+            <media:description type="html">夕陽照在海上，就像條道路指引著我們。</media:description>
+            <media:thumbnail url="thumbs/933B2FB0-432B-4EDD-A1E4-307B08219D49.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/933B2FB0-432B-4EDD-A1E4-307B08219D49.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/933B2FB0-432B-4EDD-A1E4-307B08219D49.jpg</guid>
+        </item>
+        <item>
+            <title>花密</title>
+            <link>slides/47D2057D-2A85-4FB0-A4C8-D2D23841BC06.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>櫻花開的很密集，有密集恐懼症的人不要看。</description>
+            <media:description type="html">櫻花開的很密集，有密集恐懼症的人不要看。</media:description>
+            <media:thumbnail url="thumbs/47D2057D-2A85-4FB0-A4C8-D2D23841BC06.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/47D2057D-2A85-4FB0-A4C8-D2D23841BC06.jpg" width="600" height="800"/>
+            <guid isPermaLink="false">slides/47D2057D-2A85-4FB0-A4C8-D2D23841BC06.jpg</guid>
+        </item>
+        <item>
+            <title>平靜</title>
+            <link>slides/811C6ED7-64AA-47AC-A2A8-FF90894D7B79.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>無風無雨，讓人很安心。</description>
+            <media:description type="html">無風無雨，讓人很安心。</media:description>
+            <media:thumbnail url="thumbs/811C6ED7-64AA-47AC-A2A8-FF90894D7B79.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/811C6ED7-64AA-47AC-A2A8-FF90894D7B79.jpg" width="1000" height="750"/>
+            <guid isPermaLink="false">slides/811C6ED7-64AA-47AC-A2A8-FF90894D7B79.jpg</guid>
+        </item>
+        <item>
+            <title>憂愁</title>
+            <link>slides/16C8F189-7149-4A18-83EC-7BAC04F33688.jpg</link>
+            <pubDate>Mon, 17 Apr 2023 21:38:48 +0800</pubDate>
+            <description>雨要來了，心情低落惆悵。</description>
+            <media:description type="html">雨要來了，心情低落惆悵。</media:description>
+            <media:thumbnail url="thumbs/16C8F189-7149-4A18-83EC-7BAC04F33688.jpg" width="212" height="170"/>
+            <media:content type="image/jpeg" url="slides/16C8F189-7149-4A18-83EC-7BAC04F33688.jpg" width="1000" height="667"/>
+            <guid isPermaLink="false">slides/16C8F189-7149-4A18-83EC-7BAC04F33688.jpg</guid>
+        </item>
+    </channel>
+</rss>
